@@ -1,15 +1,15 @@
-p {
+.odd {
   background-color: pink;
   font-family: "Verdana", "DejaVu Sans", "Sans-Serif";
 }
-.second {
+#second {
   color: blue;
   font-size: 36px;
 }
 .third {
   font-size: 24px;
 }
-.fourth {
+#fourth {
   background-color: green;
   font-size: 24px;
   font-weight: bold;
